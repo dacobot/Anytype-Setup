@@ -27,5 +27,4 @@ Some considerations to keep in mind when creating your space.
 - With collections you don't, you have to enter the collection and there create it to take it into account, this automatically links it with the collection.
 - That is a bit annoying if you are used to create notes without much categorization and then sort them. 
 - I don't see any difference between a document object type and a pag object type, I'll stick with page which is the default and can't be deleted.
-- One option is to make sets of objects like page and notes and put a tag and filter them, but to make collections, and that they can be linked I would have to do it manually which gives me a little laziness and also seems time consuming. Translated with www.DeepL.com/Translator (free version)
-
+- One option is to make sets of objects like page and notes and put a tag and filter them, but to make collections, and that they can be linked I would have to do it manually which gives me a little laziness and also seems time consuming. 
