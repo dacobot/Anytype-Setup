@@ -13,7 +13,7 @@ How did I do my setup? ⚙️
 ![image](https://res.craft.do/user/full/1b209dee-4948-f7ad-9d57-f551e9472d64/doc/94FD3903-DC5A-4006-A29E-F3228CE9760A/274A6E34-C696-4219-9176-75F074D42A40_2/f4LgyOliJNxmTnYmS2JiTy3VWWaRkHKxmoL2MTH1xGkz/Screen%20Shot%202023-10-26%20at%2011.18.51%20a.m..png)
 
 
-4. For relationships create different tags: Developer, Marginalia, Bussines, Courses, Modus Operandi, Literature, Philosophy, Zettel, Mythology, Notetaking, Marginalia, Language, you are in general mode. For a specific set I created English and www, but that was on the fly. This is because the relationships allow me to filter the objects and link them to collections regardless of their type, I did this thinking about the future. 🔖
+4. For relationships create different tags: Developer, Marginalia, Bussines, Courses, Modus Operandi, Literature, Philosophy, Zettel, Mythology, Notetaking, Marginalia, Language, this are in general mode. For a specific set I created English and www, but that was on the fly. This is because the relationships allow me to filter the objects and link them to collections regardless of their type, I did this thinking about the future. 🔖
 
 ![image](https://res.craft.do/user/full/1b209dee-4948-f7ad-9d57-f551e9472d64/doc/94FD3903-DC5A-4006-A29E-F3228CE9760A/D130D295-A7E4-4CDF-89A8-99619CC2F8DC_2/jRyvzbva9bs16hbLoOFgUGP6gdx1TL6YlsqZa0VTD2kz/Screen%20Shot%202023-10-26%20at%2011.19.31%20a.m..png)
 
